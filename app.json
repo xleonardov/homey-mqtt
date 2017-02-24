@@ -8,8 +8,8 @@
         "en": "Publish/subscribe messages to Mosquitto",
         "nl": "Schrijf/lees berichten naar/van Mosquitto"
     },
-    "version": "0.1.0",
-    "compatibility": "0.x",
+    "version": "0.1.1",
+    "compatibility": "1.x",
     "category": [
        "internet"
     ],
