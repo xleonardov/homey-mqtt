@@ -1,8 +1,8 @@
 {
     "id": "com.athom.mqtt",
     "name": {
-        "en": "Mosquitto MQTT client",
-        "nl": "Mosquitto MQTT client"
+        "en": "homey-mqtt",
+        "nl": "homey-mqtt"
     },
     "description": {
         "en": "Publish/subscribe messages to Mosquitto",
@@ -14,8 +14,8 @@
        "internet"
     ],
     "author": {
-        "name": "Johan Kuster",
-        "email": "j_kuster@hotmail.com"
+        "name": "Leonardov",
+        "email": "leonardov0529@gmail.com"
     },
     "images":{
        "large":"./assets/images/large.jpg",
@@ -24,7 +24,7 @@
     "flow": {
         "triggers": [
             {
-               "id": "got_mqtt_message",
+               "id": "homey-mqtt",
                "title": {
                    "en": "Receive message",
                    "nl": "Ontvang bericht"
